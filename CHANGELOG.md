@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.28.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.27.0...v1.28.0) (2024-04-06)
+
+
+### Features
+
+* add `ruff` ([#385](https://github.com/williamboman/mason-lspconfig.nvim/issues/385)) ([7d4fa27](https://github.com/williamboman/mason-lspconfig.nvim/commit/7d4fa27dfe379ec3af289f472e3e410268e56032))
+* add fennel-ls ([#382](https://github.com/williamboman/mason-lspconfig.nvim/issues/382)) ([9dfcf20](https://github.com/williamboman/mason-lspconfig.nvim/commit/9dfcf2036c223920826140f0151d929a43f9eceb))
+* add lexical ([#389](https://github.com/williamboman/mason-lspconfig.nvim/issues/389)) ([4450968](https://github.com/williamboman/mason-lspconfig.nvim/commit/44509689b9bf3984d729cc264aacb31cb7f41668))
+* add mesonlsp ([#392](https://github.com/williamboman/mason-lspconfig.nvim/issues/392)) ([ce09670](https://github.com/williamboman/mason-lspconfig.nvim/commit/ce09670ff803911720bf3122e42c7f33571eaca1))
+
+
+### Performance Improvements
+
+* lazy-require some modules during config ([#387](https://github.com/williamboman/mason-lspconfig.nvim/issues/387)) ([1505b7a](https://github.com/williamboman/mason-lspconfig.nvim/commit/1505b7a70e82d3aa8edef68b4a1b306a06187cb3))
+
 ## [1.27.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.26.0...v1.27.0) (2024-03-20)
 
 
